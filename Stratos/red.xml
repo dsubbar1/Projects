@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <robotExecEnvironment path="Python37" interpreter="Python"/>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="Python37/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="true"/>
+    <referencedLibrary type="PYTHON" name="ExcelLibrary" path="Python37/Lib/site-packages/ExcelLibrary.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="DataDriver" path="Python37/Lib/site-packages/DataDriver/__init__.py" dynamic="false"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
